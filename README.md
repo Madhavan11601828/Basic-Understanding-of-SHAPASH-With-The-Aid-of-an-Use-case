@@ -1,0 +1,2 @@
+# Basic-Understanding-of-SHAPASH-With-The-Aid-of-an-Use-case
+Establishing an expectation for trust around AI technologies may soon become one of the most important skills provided by Data Scientists. Significant research investments are underway in this area, and new tools are being developed, such as Shapash, an open-source Python library that helps Data Scientists make machine learning models more transparent and understandable.
